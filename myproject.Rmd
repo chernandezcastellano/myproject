@@ -2,17 +2,14 @@
 title: "Does sunshine make people happy?"
 author: "F. Rodriguez-Sanchez"
 date: "Thursday, 17 November 2016"
-output: word_document
-  word_document: default
-bibliography: crossref.bib
-csl: ecology.csl
+output: html_document
 ---
 
 
 Introduction
 ------------
 
-It is well known that individual well-being can be influenced by climatic conditions [@Leonard_2008]. However, ...
+It is well known that individual well-being can be influenced by climatic conditions, especially in Catalonia, which is the best place ever. However, ...
 
 
 Methods
